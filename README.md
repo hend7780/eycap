@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
