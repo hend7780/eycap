@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix IS_PYTHON_3_12 bug (#9258)
