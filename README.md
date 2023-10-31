@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add horizontal Mosaic3 augmentation (#6898)
