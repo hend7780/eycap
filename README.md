@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
