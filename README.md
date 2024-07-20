@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Improve Docs arguments tables (#8415)
