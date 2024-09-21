@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
