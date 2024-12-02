@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
